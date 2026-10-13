@@ -8,3 +8,11 @@ not allowed
 MORE edits bc im learning git diff
 
 please tell us if you wanna help by emailing justkidding@dtc.ox.ac.uk
+
+To install a copy of the toolkit, open a terminal and run:
+```
+    git clone git@github.com:smangham/climate-analysis.git
+```
+
+**This code is currently in development and not all features will work**
+
